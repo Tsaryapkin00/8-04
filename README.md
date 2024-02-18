@@ -38,7 +38,7 @@
 
 ### Решение 1
 
-!()[![image](https://github.com/Tsaryapkin00/8-04/assets/117481592/131de735-9c10-4e67-b0df-b36cfaca4cb9)]
+![image](https://github.com/Tsaryapkin00/8-04/assets/117481592/131de735-9c10-4e67-b0df-b36cfaca4cb9)
 
 ---
 
@@ -93,5 +93,8 @@
 ---
 
 ### Решение 4
+
+![image](https://github.com/Tsaryapkin00/8-04/assets/117481592/80e125bd-d0a5-41ac-b1d9-9dfee5f23fc8)
+
 
 ---
