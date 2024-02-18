@@ -38,6 +38,8 @@
 
 ### Решение 1
 
+!()[![image](https://github.com/Tsaryapkin00/8-04/assets/117481592/131de735-9c10-4e67-b0df-b36cfaca4cb9)]
+
 ---
 
 ### Задание 2
